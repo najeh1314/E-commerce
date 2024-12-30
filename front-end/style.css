@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.form-section, .results-section {
+    margin-bottom: 30px;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+input, button {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
